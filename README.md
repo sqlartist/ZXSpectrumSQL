@@ -1,5 +1,8 @@
 # Spectrum-in-SQL
 
+> **Read the full story:** For the full breakdown of how this project came to be and the initial metrics, check out the article on [Medium](https://medium.com/@trevor.dwyer/zx-spectrum-48k-in-sql-server-running-daley-thompsons-decathlon-e5abfd1f3c3d). Follow me there for future updates! You can also read it free on [my blog](https://sqlartist.github.io/posts/zx-spectrum-48k-in-sql-server-running-daley-thompsons-decathlon/).
+
+
 A ZX Spectrum 48K implemented inside SQL Server, running *Daley Thompson's
 Decathlon* (Ocean, 1984) from its original Microdrive cartridge.
 
